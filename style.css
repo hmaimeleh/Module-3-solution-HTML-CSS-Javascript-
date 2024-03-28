@@ -1,0 +1,7 @@
+/* .nav-bar-brand{
+    text-decoration: none;
+    font-weight: bolder;
+} */
+.navbar-right{
+    display: flex;
+}
